@@ -92,3 +92,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The credit scorecard is a simplified example for educational purposes.
 - While the methodology can be applied to other datasets, further validation is needed for real-world applications.
 - This project does not constitute financial advice.
+
+## Contact
+
+For any questions or feedback, please contact the project maintainer: **rhoudouin**  
+GitHub: [rhoudouin](https://github.com/rhoudouin)
+
