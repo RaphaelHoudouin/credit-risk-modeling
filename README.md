@@ -44,7 +44,7 @@ The main objectives of this project are:
 - **Techniques**: 
   - Chi-squared statistic for categorical features.
   - ANOVA F-statistic for numerical features.
-  - **Multicollinearity detection** through pairwise correlations.
+  - Multicollinearity detection through pairwise correlations.
 
 ### Weight of Evidence (WoE) Binning
 
