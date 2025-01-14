@@ -94,7 +94,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - This project does not constitute financial advice.
 
 ## Contact
-
-For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
-GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin)
-
+For any questions or feedback, please contact the project maintainer: **raphaelhoudouin**.  
+GitHub: [raphaelhoudouin](https://github.com/raphaelhoudouin).
